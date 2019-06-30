@@ -1,0 +1,1 @@
+/usr/bin/jackd -R -P95 -t 1000 -dalsa -dhw:pisound -n3 -p128 -r48000  
